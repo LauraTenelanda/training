@@ -1,0 +1,3 @@
+git.exe clone https://github.com/git-training/training
+
+git checkout -b novakale
