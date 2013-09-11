@@ -3,7 +3,9 @@ first line
 second line
 third line
 tu Zbyszek
+my first line
 fifth line by bosy
+the very last line
 
 seventh line
 
